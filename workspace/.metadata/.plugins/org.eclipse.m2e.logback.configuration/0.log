@@ -7232,3 +7232,51 @@ org.eclipse.core.runtime.CoreException: Launch configuration Safari references n
 2017-10-14 23:57:16,622 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_42/src/main/resources
 2017-10-14 23:57:16,623 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-10-14 23:57:16,623 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_42/src/test/resources
+2017-10-15 01:48:30,940 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 01:48:30,940 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 01:48:30,941 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 01:48:30,942 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:26:47,692 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:26:47,715 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:26:47,716 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:26:47,717 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:27:46,035 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:27:46,057 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:27:46,059 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:27:46,059 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:28:01,203 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:01,219 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:28:01,220 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:01,220 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:28:15,290 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:15,290 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:28:15,291 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:15,291 [Worker-523] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:28:26,549 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:26,549 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:28:26,549 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:26,549 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:28:45,189 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:45,189 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:28:45,190 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:45,190 [Worker-521] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:28:59,582 [Worker-530] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:59,604 [Worker-530] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:28:59,605 [Worker-530] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:28:59,605 [Worker-530] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:29:11,081 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:11,081 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:29:11,084 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:11,084 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:29:28,925 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:29,037 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:29:29,038 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:29,038 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:29:41,558 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:41,559 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:29:41,559 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:41,560 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources
+2017-10-15 02:29:51,823 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:51,823 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/main/resources
+2017-10-15 02:29:51,823 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-15 02:29:51,823 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/val/workspace/HW_43/src/test/resources

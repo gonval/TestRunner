@@ -11,7 +11,7 @@ public class Safari {
 
 	public static void main(String[] args) throws InterruptedException {
 		Logger.getLogger("").setLevel(Level.OFF);
-		String url = "http://alex.academy/exe/payment_tax/index.html";
+		String url = "http://alex.academy/exe/payment_tax/index3.html";
 
 		if (!System.getProperty("os.name").contains("Mac")) throw new IllegalArgumentException("Safari is available only on Mac");
 
@@ -22,20 +22,20 @@ public class Safari {
 		driver.get(url);
 		String string_monthly_payment_and_tax = driver.findElement(By.id("id_monthly_payment_and_tax")).getText();
 
-	    String regex = "^"    
-	    		           + "Payment: \\$(91.21), Tax: (8.25)%"
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-	    		           + ""
-				       + "$";
+	    String regex = "^"                                                         // ^ Start of llline
+		           + "Payment: \\$(91.21), Tax: (8.25)%"
+		           + "(?:.*?)?"
+		           + "(?:\\$*)?"
+		           + "(?:\\s*)?"
+		           + "((?:\\d*)|(?:\\d*)(?:\\.)(?:\\d*))"
+		           + "(?:\\s*)?"
+		           + "(?:[/]*|,\\s*[A-Z]*[a-z]*\\s*[:]*)?"
+		           + "(?:\\s*)?"
+		           + "((?:\\d*)|(?:\\d*)(?:\\.)(?:\\d*))"
+		           + "(?:\\s*)?"
+		           + "(?:%)?"
+		           + "(?:\\s*)?"
+		       + "$";                                   // $ End of line
 
 		Pattern p = Pattern.compile(regex);
 		Matcher m = p.matcher(string_monthly_payment_and_tax); m.find();
