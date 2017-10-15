@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="core.PrimeNumberCheckerTest" time="1.258" tests="20" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="core.PrimeNumberCheckerTest" time="2.076" tests="20" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib"/>
@@ -62,24 +62,24 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="&quot;TC-01.01 (2 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.302"/>
+  <testcase name="&quot;TC-01.01 (2 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.383"/>
   <testcase name="&quot;TC-01.02 (3 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.03 (4 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
+  <testcase name="&quot;TC-01.03 (4 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
   <testcase name="&quot;TC-01.04 (5 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.05 (6 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
-  <testcase name="&quot;TC-01.06 (7 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.005"/>
+  <testcase name="&quot;TC-01.05 (6 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="&quot;TC-01.06 (7 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.004"/>
   <testcase name="&quot;TC-01.07 (8 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
   <testcase name="&quot;TC-01.08 (9 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.09 (10 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.10 (11 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.11 (12 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
-  <testcase name="&quot;TC-01.12 (13 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="&quot;TC-01.09 (10 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="&quot;TC-01.10 (11 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="&quot;TC-01.11 (12 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="&quot;TC-01.12 (13 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
   <testcase name="&quot;TC-01.13 (14 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
-  <testcase name="&quot;TC-01.14 (15 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
-  <testcase name="&quot;TC-01.15 (16 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
-  <testcase name="&quot;TC-01.16 (17 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.003"/>
-  <testcase name="&quot;TC-01.17 (18 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
+  <testcase name="&quot;TC-01.14 (15 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="&quot;TC-01.15 (16 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="&quot;TC-01.16 (17 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="&quot;TC-01.17 (18 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
   <testcase name="&quot;TC-01.18 (19 - Prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
   <testcase name="&quot;TC-01.19 (20 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
-  <testcase name="&quot;TC-01.20 (21 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.002"/>
+  <testcase name="&quot;TC-01.20 (21 - Not prime number)" classname="core.PrimeNumberCheckerTest" time="0.001"/>
 </testsuite>

@@ -1,0 +1,59 @@
+{
+  "uid" : "eb33006cd6fc2a30",
+  "name" : "\"TC-01.07 (8 - Not prime number)[\"TC-01.07 (8 - Not prime number),8, false\"]",
+  "title" : "07 (8 - not prime number) [\"TC-01.07 (8 - Not prime number),8, false\"]",
+  "time" : {
+    "start" : 1505515483247,
+    "stop" : 1505515483248,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "db64e04aeb0201b2",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "25060@gnvl.local.main(1)"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "gnvl.local"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "testClass",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

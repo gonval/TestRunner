@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=HW_26/src\/main\/java&amp;lt;core{CLA_M_Sub.java[CLA_M_Sub&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW_26/src\/main\/java&amp;lt;core{CLA_S.java[CLA_S&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW_35/\/Applications\/Eclipse neon2.app\/Contents\/Eclipse\/plugins\/org.testng.eclipse_6.11.0.201703011520\/lib\/testng.jar&amp;lt;org.testng(TestNG.class[TestNG&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="100" key="DIALOG_X_ORIGIN"/>
+			<item value="-13" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

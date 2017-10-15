@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/val/workspace/HW_38"/>
+			<item value="/Users/val/workspace/HW_40"/>
+			<item value="/Users/val/workspace/Title_Validation_CSV"/>
+			<item value="/Users/val/Documents/workspace/Title_Validation_CSV"/>
+			<item value="/Users/val/workspace/Title_Validation_CSV "/>
+			<item value="/Users/val/workspace/Title_Validation_CSV  copy"/>
+			<item value="/Users/val/workspace/HW_39"/>
+			<item value="/Users/val/workspace"/>
+			<item value="/Users/val/workspace/HW_36"/>
+			<item value="/Users/val/workspace/HW_35"/>
+			<item value="/Users/val/workspace/HW_34"/>
+			<item value="/Users/val/workspace/HW_26"/>
+			<item value="/Users/val/workspace/HW_32"/>
+			<item value="/Users/val/workspace/HW_31"/>
+			<item value="/Users/val/workspace/HW_30"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/val/workspace/HW_38"/>
+			<item value="/Users/val/workspace/coding challenge/src/main/java"/>
+			<item value="/Users/val/workspace"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="core"/>
+			<item value="core.HW_33_abc"/>
+		</list>
+		<list key="groupId">
+			<item value="core"/>
+		</list>
+		<list key="artifactId">
+			<item value="HW_38_abc"/>
+			<item value="HW_38abc"/>
+			<item value="HW_37abc"/>
+			<item value="HW_36_abc"/>
+			<item value="HW_36"/>
+			<item value="HW_35"/>
+			<item value="HW_35_abc"/>
+			<item value="SortNumbers"/>
+			<item value="HW_33_abc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

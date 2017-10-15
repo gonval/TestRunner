@@ -1,0 +1,59 @@
+{
+  "uid" : "a8f59008b959487f",
+  "name" : "\"TC-01.12 (13 - Prime number)[\"TC-01.12 (13 - Prime number),13, true\"]",
+  "title" : "12 (13 - prime number) [\"TC-01.12 (13 - Prime number),13, true\"]",
+  "time" : {
+    "start" : 1505515483258,
+    "stop" : 1505515483259,
+    "duration" : 1
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "db64e04aeb0201b2",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "25060@gnvl.local.main(1)"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "gnvl.local"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "testClass",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

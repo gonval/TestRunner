@@ -10,7 +10,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "a836e024256f2537",
+      "uid" : "2550126de2c392ba",
       "title" : "Without story",
       "statistic" : {
         "total" : 20,
@@ -21,221 +21,221 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "7b20aa2c19149ac5",
+        "uid" : "5429e91f4500e2b1",
         "name" : "\"TC-01.01 (2 - Prime number)[\"TC-01.01 (2 - Prime number),2, true\"]",
         "title" : "01 (2 - prime number) [\"TC-01.01 (2 - Prime number),2, true\"]",
         "time" : {
-          "start" : 1504850547176,
-          "stop" : 1504850547189,
-          "duration" : 13
+          "start" : 1505515483210,
+          "stop" : 1505515483224,
+          "duration" : 14
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "adef7b16ebb8d707",
+        "uid" : "23b674a00db7b23c",
         "name" : "\"TC-01.02 (3 - Prime number)[\"TC-01.02 (3 - Prime number),3, true\"]",
         "title" : "02 (3 - prime number) [\"TC-01.02 (3 - Prime number),3, true\"]",
         "time" : {
-          "start" : 1504850547196,
-          "stop" : 1504850547198,
-          "duration" : 2
+          "start" : 1505515483230,
+          "stop" : 1505515483231,
+          "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "c94a15d0c9dd2646",
+        "uid" : "51b3c8718aa478b1",
         "name" : "\"TC-01.03 (4 - Not prime number)[\"TC-01.03 (4 - Not prime number),4, false\"]",
         "title" : "03 (4 - not prime number) [\"TC-01.03 (4 - Not prime number),4, false\"]",
         "time" : {
-          "start" : 1504850547200,
-          "stop" : 1504850547201,
+          "start" : 1505515483233,
+          "stop" : 1505515483234,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "cefd5dab2d20593e",
+        "uid" : "ae64ee04ac05b90d",
         "name" : "\"TC-01.04 (5 - Prime number)[\"TC-01.04 (5 - Prime number),5, true\"]",
         "title" : "04 (5 - prime number) [\"TC-01.04 (5 - Prime number),5, true\"]",
         "time" : {
-          "start" : 1504850547204,
-          "stop" : 1504850547205,
+          "start" : 1505515483236,
+          "stop" : 1505515483237,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "254655a43b3350cc",
+        "uid" : "a5887ff8fb5f5a61",
         "name" : "\"TC-01.05 (6 - Not prime number)[\"TC-01.05 (6 - Not prime number),6, false\"]",
         "title" : "05 (6 - not prime number) [\"TC-01.05 (6 - Not prime number),6, false\"]",
         "time" : {
-          "start" : 1504850547207,
-          "stop" : 1504850547208,
+          "start" : 1505515483239,
+          "stop" : 1505515483240,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "c289de29e236f6ea",
+        "uid" : "18a1388401dab60a",
         "name" : "\"TC-01.06 (7 - Prime number)[\"TC-01.06 (7 - Prime number),7, true\"]",
         "title" : "06 (7 - prime number) [\"TC-01.06 (7 - Prime number),7, true\"]",
         "time" : {
-          "start" : 1504850547211,
-          "stop" : 1504850547215,
-          "duration" : 4
+          "start" : 1505515483242,
+          "stop" : 1505515483245,
+          "duration" : 3
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "b433f7d8c85ab1d2",
+        "uid" : "eb33006cd6fc2a30",
         "name" : "\"TC-01.07 (8 - Not prime number)[\"TC-01.07 (8 - Not prime number),8, false\"]",
         "title" : "07 (8 - not prime number) [\"TC-01.07 (8 - Not prime number),8, false\"]",
         "time" : {
-          "start" : 1504850547217,
-          "stop" : 1504850547218,
+          "start" : 1505515483247,
+          "stop" : 1505515483248,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "7e32582772d112e3",
+        "uid" : "3847c6ccfd8a4479",
         "name" : "\"TC-01.08 (9 - Not prime number)[\"TC-01.08 (9 - Not prime number),9, false\"]",
         "title" : "08 (9 - not prime number) [\"TC-01.08 (9 - Not prime number),9, false\"]",
         "time" : {
-          "start" : 1504850547220,
-          "stop" : 1504850547221,
+          "start" : 1505515483249,
+          "stop" : 1505515483250,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "75761214388e7141",
+        "uid" : "ae322188ebdeafc3",
         "name" : "\"TC-01.09 (10 - Not prime number)[\"TC-01.09 (10 - Not prime number),10, false\"]",
         "title" : "09 (10 - not prime number) [\"TC-01.09 (10 - Not prime number),10, false\"]",
         "time" : {
-          "start" : 1504850547223,
-          "stop" : 1504850547224,
+          "start" : 1505515483251,
+          "stop" : 1505515483252,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "7719733248241c21",
+        "uid" : "94b48c19c5503520",
         "name" : "\"TC-01.10 (11 - Prime number)[\"TC-01.10 (11 - Prime number),11, true\"]",
         "title" : "10 (11 - prime number) [\"TC-01.10 (11 - Prime number),11, true\"]",
         "time" : {
-          "start" : 1504850547225,
-          "stop" : 1504850547227,
-          "duration" : 2
+          "start" : 1505515483253,
+          "stop" : 1505515483254,
+          "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "94270405db5541ab",
+        "uid" : "4feaabee04ee0d14",
         "name" : "\"TC-01.11 (12 - Not prime number)[\"TC-01.11 (12 - Not prime number),12, false\"]",
         "title" : "11 (12 - not prime number) [\"TC-01.11 (12 - Not prime number),12, false\"]",
         "time" : {
-          "start" : 1504850547228,
-          "stop" : 1504850547229,
+          "start" : 1505515483255,
+          "stop" : 1505515483256,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "c1dd6322c2fd77eb",
+        "uid" : "a8f59008b959487f",
         "name" : "\"TC-01.12 (13 - Prime number)[\"TC-01.12 (13 - Prime number),13, true\"]",
         "title" : "12 (13 - prime number) [\"TC-01.12 (13 - Prime number),13, true\"]",
         "time" : {
-          "start" : 1504850547230,
-          "stop" : 1504850547231,
+          "start" : 1505515483258,
+          "stop" : 1505515483259,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "4b31725398610e64",
+        "uid" : "9e11d3922997dd89",
         "name" : "\"TC-01.13 (14 - Not prime number)[\"TC-01.13 (14 - Not prime number),14, false\"]",
         "title" : "13 (14 - not prime number) [\"TC-01.13 (14 - Not prime number),14, false\"]",
         "time" : {
-          "start" : 1504850547232,
-          "stop" : 1504850547233,
+          "start" : 1505515483260,
+          "stop" : 1505515483261,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "7805e5063a8932d",
+        "uid" : "680dc57b0099dcc9",
         "name" : "\"TC-01.14 (15 - Not prime number)[\"TC-01.14 (15 - Not prime number),15, false\"]",
         "title" : "14 (15 - not prime number) [\"TC-01.14 (15 - Not prime number),15, false\"]",
         "time" : {
-          "start" : 1504850547234,
-          "stop" : 1504850547235,
+          "start" : 1505515483263,
+          "stop" : 1505515483264,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "baef180eb23be608",
+        "uid" : "bec8150fac693ce0",
         "name" : "\"TC-01.15 (16 - Not prime number)[\"TC-01.15 (16 - Not prime number),16, false\"]",
         "title" : "15 (16 - not prime number) [\"TC-01.15 (16 - Not prime number),16, false\"]",
         "time" : {
-          "start" : 1504850547237,
-          "stop" : 1504850547238,
+          "start" : 1505515483265,
+          "stop" : 1505515483266,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "5359fc04c1bceb6f",
+        "uid" : "5efc19ae06bbf007",
         "name" : "\"TC-01.16 (17 - Prime number)[\"TC-01.16 (17 - Prime number),17, true\"]",
         "title" : "16 (17 - prime number) [\"TC-01.16 (17 - Prime number),17, true\"]",
         "time" : {
-          "start" : 1504850547241,
-          "stop" : 1504850547243,
+          "start" : 1505515483267,
+          "stop" : 1505515483269,
           "duration" : 2
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "6ac556ad82a7855b",
+        "uid" : "9eee3abb532a4f90",
         "name" : "\"TC-01.17 (18 - Not prime number)[\"TC-01.17 (18 - Not prime number),18, false\"]",
         "title" : "17 (18 - not prime number) [\"TC-01.17 (18 - Not prime number),18, false\"]",
         "time" : {
-          "start" : 1504850547244,
-          "stop" : 1504850547245,
+          "start" : 1505515483271,
+          "stop" : 1505515483272,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "23916585f15c6d42",
+        "uid" : "3098b6ea5ee56864",
         "name" : "\"TC-01.18 (19 - Prime number)[\"TC-01.18 (19 - Prime number),19, true\"]",
         "title" : "18 (19 - prime number) [\"TC-01.18 (19 - Prime number),19, true\"]",
         "time" : {
-          "start" : 1504850547247,
-          "stop" : 1504850547248,
+          "start" : 1505515483273,
+          "stop" : 1505515483274,
           "duration" : 1
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "dc3d7fc6741559e9",
+        "uid" : "122a14e4560b07a2",
         "name" : "\"TC-01.19 (20 - Not prime number)[\"TC-01.19 (20 - Not prime number),20, false\"]",
         "title" : "19 (20 - not prime number) [\"TC-01.19 (20 - Not prime number),20, false\"]",
         "time" : {
-          "start" : 1504850547249,
-          "stop" : 1504850547250,
-          "duration" : 1
+          "start" : 1505515483275,
+          "stop" : 1505515483275,
+          "duration" : 0
         },
         "severity" : "NORMAL",
         "status" : "PASSED"
       }, {
-        "uid" : "b6ec97c903922d92",
+        "uid" : "4b584be726ee1c0f",
         "name" : "\"TC-01.20 (21 - Not prime number)[\"TC-01.20 (21 - Not prime number),21, false\"]",
         "title" : "20 (21 - not prime number) [\"TC-01.20 (21 - Not prime number),21, false\"]",
         "time" : {
-          "start" : 1504850547252,
-          "stop" : 1504850547253,
+          "start" : 1505515483276,
+          "stop" : 1505515483277,
           "duration" : 1
         },
         "severity" : "NORMAL",
