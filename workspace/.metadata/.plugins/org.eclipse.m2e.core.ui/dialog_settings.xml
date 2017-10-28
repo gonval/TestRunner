@@ -33,6 +33,12 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/val/workspace/HW_46"/>
+			<item value="/Users/val/workspace/HW_45"/>
+			<item value="/Users/val/workspace/HW_44"/>
+			<item value="/Users/val/workspace/HW_43"/>
+			<item value="/Users/val/workspace/HW_42"/>
+			<item value="/Users/val/workspace/HW_41"/>
 			<item value="/Users/val/workspace/HW_38"/>
 			<item value="/Users/val/workspace/HW_40"/>
 			<item value="/Users/val/workspace/Title_Validation_CSV"/>
@@ -42,12 +48,6 @@
 			<item value="/Users/val/workspace/HW_39"/>
 			<item value="/Users/val/workspace"/>
 			<item value="/Users/val/workspace/HW_36"/>
-			<item value="/Users/val/workspace/HW_35"/>
-			<item value="/Users/val/workspace/HW_34"/>
-			<item value="/Users/val/workspace/HW_26"/>
-			<item value="/Users/val/workspace/HW_32"/>
-			<item value="/Users/val/workspace/HW_31"/>
-			<item value="/Users/val/workspace/HW_30"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -71,6 +71,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/val/workspace/HW_45/src/main/java/core/CommonPF.java"/>
 			<item value="/Users/val/workspace/HW_38"/>
 			<item value="/Users/val/workspace/coding challenge/src/main/java"/>
 			<item value="/Users/val/workspace"/>
@@ -86,6 +87,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="core.HW_45V"/>
 			<item value="core"/>
 			<item value="core.HW_33_abc"/>
 		</list>
@@ -93,6 +95,8 @@
 			<item value="core"/>
 		</list>
 		<list key="artifactId">
+			<item value="HW_45V"/>
+			<item value="HW_39v"/>
 			<item value="HW_38_abc"/>
 			<item value="HW_38abc"/>
 			<item value="HW_37abc"/>
@@ -112,8 +116,8 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0"/>
 			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0"/>
 		</list>
 	</section>
 </section>

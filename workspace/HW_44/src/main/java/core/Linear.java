@@ -99,7 +99,7 @@ public class Linear {
 		
 		start = System.currentTimeMillis();
 		
-		url = "http://alex.academy/exe/signup/v1/index.php";
+		url = "https://www.ebay.com/myb/Summary?MyEbay&gbh=1";
 		open(url);
 		
 		System.out.println("01. Element [Quotes (dynamic)]: " +	(isPresent(el_01) ? "Exists" : "Not exist")); 		// signup

@@ -13,8 +13,15 @@ public class Chrome {
 
 	public static void main(String[] args) throws InterruptedException {
 		Logger.getLogger("").setLevel(Level.OFF);
-		String url = "http://alex.academy/exe/payment/index3.html";
+		
+//		String url = "http://alex.academy/exe/payment/index.html";
+//		String url = "http://alex.academy/exe/payment/index2.html";
+//		String url = "http://alex.academy/exe/payment/index3.html";
+//		String url = "http://alex.academy/exe/payment/index4.html";
+		String url = "http://alex.academy/exe/payment/indexE.html";
+		
 		String driverPath = "";
+		String browser = "Chrome";
 		if (System.getProperty("os.name").toUpperCase().contains("MAC")) driverPath = "./resources/webdrivers/mac/chromedriver";
 		else if (System.getProperty("os.name").toUpperCase().contains("WINDOWS")) driverPath = "./resources/webdrivers/pc/chromedriver.exe";
 		else throw new IllegalArgumentException("Unknown OS");
@@ -33,13 +40,9 @@ public class Chrome {
 		driver.get(url);
 		String string_monthly_payment = driver.findElement(By.id("id_monthly_payment")).getText();
 
-		// String regex = "^"    // ^ Start og line
-		// + "(?:\\$)?"                // ?: Passive Group (non-capturing) & \? Liteal $ & ? 0 or 1
-		// + "(?:\\s*)?"               // ?: Passive Group (non-capturing) & \s - Whitespace characters
-		// + "((?:\\d{1,3})(?:\\,)?(?:\\d{3})?(?:\\.)?(\\d{0,2})?)"
-		// + "$";                         // $ End of Line
-
-		String regex = "(1,247.38)";
+//		String regex = "^(\$)?(\s)?\d+([,\.])?\d+\.?\d+(\$)?$";
+//		!!!!!!! This RegEx works but Java doesn't accept it !!!!!!!!!!!!
+		String regex = "^(?:\\$)?(?:\\s*)?((?:\\d{1,3})(?:\\,)?(?:\\d{3})?(?:\\.)?(\\d{0,2})?)$";
 
 		Pattern p = Pattern.compile(regex);
 		Matcher m = p.matcher(string_monthly_payment);
@@ -52,9 +55,11 @@ public class Chrome {
 		driver.findElement(By.id("id_annual_payment")).sendKeys(String.valueOf(f_annual_payment));
 		driver.findElement(By.id("id_validate_button")).submit();
 		String actual_result = driver.findElement(By.id("id_result")).getText();
-		System.out.println("String: \t" + string_monthly_payment);
-		System.out.println("Annual Payment: " + f_annual_payment);
-		System.out.println("Result: \t" + actual_result);
+		System.out.printf("Browser: \t %s \n",browser);
+		System.out.printf("String: \t %s \n",string_monthly_payment);
+		System.out.printf("Annual Payment:  %s \n",f_annual_payment);
+		System.out.printf("Result: \t %s \n",actual_result);
+		System.out.printf("_____________________________");
 		driver.quit();
 	}
 }

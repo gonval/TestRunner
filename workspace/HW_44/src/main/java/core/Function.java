@@ -197,8 +197,8 @@ public class Function {
 		System.out.println("Browser: HtmlUnit");
 		start = System.currentTimeMillis();
 
-		pageSignUpValidation("http://alex.academy/exe/signup/v1/index.php");
-		pageConfirmationValidation("http://alex.academy/exe/signup/v1/confirmation.php");
+		pageSignUpValidation("https://www.ebay.com/myb/Summary?MyEbay&gbh=1");
+		pageConfirmationValidation("https://www.ebay.com/myb/Summary?MyEbay&gbh=1");
 
 		driver.quit();
 
